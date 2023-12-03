@@ -1,5 +1,4 @@
-
-export function main() { 
-console.log('HELLO WORLD');
-}
-main();
+// JavaScript source code
+document.addEventListener('DOMContentLoaded', function () {
+    alert('Welcome!');
+});
